@@ -1,0 +1,4 @@
+Melhorias a considerar:
+
+1 - Eliminar códigos repetitivos na classe SistemaGUI;
+2 - Adicionar alguma funcionalidade a classe Hardware, já que ela está se comportando como uma classe de dados;
